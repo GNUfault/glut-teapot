@@ -1,2 +1,2 @@
-# glux-teapot
+# GLUX Teapot
 GLUX Utah Teapot Demo 
