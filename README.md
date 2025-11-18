@@ -1,2 +1,2 @@
-# GLUX Teapot
-GLUX Utah Teapot Demo 
+# GLUT Teapot
+GLUT Utah Teapot Demo 
